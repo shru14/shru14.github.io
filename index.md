@@ -1,6 +1,39 @@
+<style>
+.intro-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  .intro-section {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profile-image {
+    margin-bottom: 20px;
+  }
+}
+</style>
+
+<div class="intro-section">
+<div markdown="1">
 Hello there 👋!
 
 I am a Computer engineer from the [Pune Institute of Computer Technology](https://www.pict.edu), Maharashtra, India pursuing a social impact career. Being a graduate in [Data science for Public Policy](https://www.hertie-school.org/en/mds) program at the Hertie School of Governance [my professional journey](https://www.linkedin.com/posts/hertie-school-india-hub_adrcon-activity-7336024134637842432-WVSi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABSRwoYB6fqgqhqI_zXs69uoOnef-XWd2w4) has evolved from interdisciplinary Data science and Analytics into AI consultancy, with a specialization in AI governance and related regulations. I am passionate about helping organizations strategize trust in AI across industries and always open to meaningful conversations at the intersection of Technology, Policy, and Ethics.
+</div>
+<img src="/images/shruti.jpg" alt="Shruti Kakade" class="profile-image">
+</div>
 
 - Born and raised in India
 - Started out studying Computer Engineering at [Pune Institute of Computer Technology](https://www.pict.edu)
@@ -51,7 +84,7 @@ Got selected to attend summar school, presented a talk on [Governing AI's Comput
 1. ["Unraveling the global tapestry of Military AI data practices"](https://drive.google.com/file/d/1pu-MWiTv2VXroQyb3A95cD9zz3nVtuFF/view) at the Global conference of AI, security and ethics, RAISE2025 UN headquarters, Geneva, Switzerland.
 2. ["A Socio-Technical Approach to Auditing, Risk Management, and Alignment of Language Models in Hiring Systems"](https://drive.google.com/file/d/1Hf0HjINPTxS0vQjwNN3LzzkWxvKQjW8u/view) at SSaLM workshop, Weizenbaum Institute of Networked Society, Berlin, Germany.
 
-Links
+# Links
 
 - [Shruti_Kakade_CV_2026](https://drive.google.com/file/d/1j0gRcul6RgXAmVERoP9IuZkXg2RF-1KD/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/shrutikakade14/)
