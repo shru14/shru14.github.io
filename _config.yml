@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# If your theme supports it:
+include:
+  - assets
