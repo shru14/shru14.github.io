@@ -20,7 +20,12 @@
   }
 
   .profile-image {
-    margin-bottom: 20px;
+  width: 160px;          /* 👈 small, concise */
+  height: 160px;
+  max-width: 160px;      /* 👈 prevents theme overrides */
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
   }
 }
 
