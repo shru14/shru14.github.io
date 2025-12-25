@@ -6,7 +6,7 @@ title: Home
 
 <div class="site-tabs">
   <a href="{{ '/about/' | relative_url }}">About</a>
-  <a href="{{ '/talks/' | relative_url }}">Talks</a>
+  <a href="{{ '/talks_and_presentations/' | relative_url }}">Talks</a>
   <a href="{{ '/links/' | relative_url }}">Links</a>
 </div>
 
