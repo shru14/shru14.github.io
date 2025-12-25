@@ -20,8 +20,3 @@ I am a Computer engineer from the [Pune Institute of Computer Technology](https:
 
   <img src="{{ '/images/shruti.jpg' | relative_url }}" alt="Shruti Kakade" class="profile-image">
 </div>
-
-Quick links: 
-[LinkedIn](https://www.linkedin.com/in/shrutikakade14/)
-[GitHub](https://github.com/shru14)
-[Scholar](https://scholar.google.com/citations?hl=en&user=oaP6sxQAAAAJ)
