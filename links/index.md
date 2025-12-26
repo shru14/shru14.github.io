@@ -39,5 +39,4 @@ title: Links
 </form>
 
 <p style="margin-top:10px; font-size: 0.95em;">
-  Prefer email? Write to me directly on LinkedIn.
 </p>
