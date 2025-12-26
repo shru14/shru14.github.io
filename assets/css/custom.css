@@ -25,3 +25,18 @@
     margin-bottom: 20px;
   }
 }
+.site-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 24px 0;
+}
+.site-tabs a {
+  padding: 8px 12px;
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 999px;
+  text-decoration: none;
+}
+.site-tabs a:hover {
+  text-decoration: none;
+}

@@ -4,14 +4,7 @@ title: Links
 ---
 {% include tabs.html %}
 
-<div class="site-tabs">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/about/' | relative_url }}">About</a>
-  <a href="{{ '/talks_and_presentations/' | relative_url }}">Talks</a>
-  <a href="{{ '/links/' | relative_url }}">Links</a>
-</div>
-
-## Links
+# Links
 
 - [Shruti_Kakade_CV_2026](https://drive.google.com/file/d/1j0gRcul6RgXAmVERoP9IuZkXg2RF-1KD/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/shrutikakade14/)

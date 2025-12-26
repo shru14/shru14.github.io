@@ -4,14 +4,7 @@ title: About
 ---
 {% include tabs.html %}
 
-<div class="site-tabs">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/about/' | relative_url }}">About</a>
-  <a href="{{ '/talks_and_presentations/' | relative_url }}">Talks</a>
-  <a href="{{ '/links/' | relative_url }}">Links</a>
-</div>
-
-## About
+# About
 
 - Born and raised in India
 - Started out studying Computer Engineering at [Pune Institute of Computer Technology](https://www.pict.edu)

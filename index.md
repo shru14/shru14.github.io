@@ -4,13 +4,6 @@ title: Home
 ---
 {% include tabs.html %}
 
-<div class="site-tabs">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/about/' | relative_url }}">About</a>
-  <a href="{{ '/talks_and_presentations/' | relative_url }}">Talks</a>
-  <a href="{{ '/links/' | relative_url }}">Links</a>
-</div>
-
 <div class="intro-section">
 <div markdown="1">
 
