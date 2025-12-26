@@ -16,6 +16,6 @@ I am a Computer engineer from the [Pune Institute of Computer Technology](https:
   <img src="{{ '/images/shruti.jpg' | relative_url }}" alt="Shruti Kakade" class="profile-image">
 </div>
 
-- [Shruti_Kakade_CV_2026](https://drive.google.com/file/d/1j0gRcul6RgXAmVERoP9IuZkXg2RF-1KD/view?usp=sharing)
-- [Me at Hertie school1](https://www.hertie-school.org/en/who-we-are/profile/person/kakade)
-- [Me at Hertie school2](https://www.hertie-school.org/en/who-we-are/profile/person/kakade-828)
+[CV_2026](https://drive.google.com/file/d/1j0gRcul6RgXAmVERoP9IuZkXg2RF-1KD/view?usp=sharing)
+[Me at Hertie school1](https://www.hertie-school.org/en/who-we-are/profile/person/kakade)
+[Me at Hertie school2](https://www.hertie-school.org/en/who-we-are/profile/person/kakade-828)
