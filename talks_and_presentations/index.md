@@ -51,3 +51,11 @@ Got selected to attend summar school, presented a talk on [Governing AI's Comput
 
 1. ["Unraveling the global tapestry of Military AI data practices"](https://drive.google.com/file/d/1pu-MWiTv2VXroQyb3A95cD9zz3nVtuFF/view) at the Global conference of AI, security and ethics, RAISE2025 UN headquarters, Geneva, Switzerland.
 2. ["A Socio-Technical Approach to Auditing, Risk Management, and Alignment of Language Models in Hiring Systems"](https://drive.google.com/file/d/1Hf0HjINPTxS0vQjwNN3LzzkWxvKQjW8u/view) at SSaLM workshop, Weizenbaum Institute of Networked Society, Berlin, Germany.
+
+
+
+
+# Interview video
+
+
+- [Voice of the Young Vidped series 817 May 2025](https://www.youtube.com/watch?v=txhbkB58FS8)
