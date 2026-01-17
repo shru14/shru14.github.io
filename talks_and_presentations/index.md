@@ -4,7 +4,7 @@ title: Talks
 ---
 {% include tabs.html %}
 
-# Conference Presentations and Talks
+# Conference Presentations
 
 
 1. "Interdisciplinary Perspectives on Human and Machine Creativity", Max Planck Institute for Human Development (Berlin, Germany)  
@@ -28,19 +28,23 @@ title: Talks
 [Operationalizing AI Governance through Evidence-Based and Participatory Methods](https://www.adaptcentre.ie/news-and-events/a-dialogue-on-ai-and-data-governance-when-the-world-is-watching-a-deliberation-with-early-career-researchers/)
 
 
-6. "DialoguePerspectives", Vienna Citizen Lab (Vienna, Austria)  
-[Participant-30 young european professionals developing policy recommendations on social-media regulation (OSNs)](https://www.linkedin.com/posts/shrutikakade14_digitaldemocracy-policyprototyping-twon-activity-7328340236747304960-pZvV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABSRwoYB6fqgqhqI_zXs69uoOnef-XWd2w4)
-
-
-7. "CorrelCon’24", Correlaid (Munich, Germany)  
+6. "CorrelCon’24", Correlaid (Munich, Germany)  
 Talk on [AI ethics and responsible AI](https://docs.google.com/presentation/d/1U3jkYzmskHxRwedKPFWheCdN3EwV11kG/edit?usp=sharing&ouid=105497386037506462871&rtpof=true&sd=true)
 
 
-8. "Digital Government Workshop", TalTech (Tallinn, Estonia)  
+
+
+# Workshops
+
+1. "DialoguePerspectives", Vienna Citizen Lab (Vienna, Austria)  
+[Participant-30 young european professionals developing policy recommendations on social-media regulation (OSNs)](https://www.linkedin.com/posts/shrutikakade14_digitaldemocracy-policyprototyping-twon-activity-7328340236747304960-pZvV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABSRwoYB6fqgqhqI_zXs69uoOnef-XWd2w4)
+
+
+2. "Digital Government Workshop", TalTech (Tallinn, Estonia)  
 [Selected amongst 10 students along with students of Oxford Internet Institute to visit Estonian digital government led by Keegan McBride](https://www.linkedin.com/posts/shrutikakade14_an-estonian-recipe-for-digital-government-activity-7243163044548083712-rzIl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABSRwoYB6fqgqhqI_zXs69uoOnef-XWd2w4)
 
 
-9. "CIVICA summar school" (Bucharest, Romania)  
+3. "CIVICA summar school" (Bucharest, Romania)  
 Got selected to attend summar school, presented a talk on [Governing AI's Computational infrastruture, opportunities and challenges](https://drive.google.com/drive/folders/1YxAL40USGVUBIaW9Rlfh72kCzXgxPfzU)
 
 
