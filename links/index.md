@@ -10,6 +10,7 @@ title: Links
 - [GitHub](https://github.com/shru14)
 - [Twitter](https://x.com/shruti_kakade_)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=oaP6sxQAAAAJ)
+- [Substack](https://substack.com/@shru14stack/posts)
 
 # Contact me
 
