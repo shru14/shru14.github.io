@@ -23,12 +23,6 @@
   object-fit: cover;
 }
 
-.profile-caption {
-  margin-top: 6px;
-  font-size: 0.8rem;
-  color: #666;
-}
-
 @media (max-width: 768px) {
   .intro-section {
     flex-direction: column;
