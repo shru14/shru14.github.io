@@ -9,7 +9,7 @@ title: Home
 
 Hello there 👋!
 
-I am a Computer engineer from the [Pune Institute of Computer Technology](https://www.pict.edu), Maharashtra, India pursuing a social impact career. Being a graduate in [Data science for Public Policy](https://www.hertie-school.org/en/mds) program at the Hertie School of Governance [my professional journey](https://www.linkedin.com/posts/hertie-school-india-hub_adrcon-activity-7336024134637842432-WVSi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABSRwoYB6fqgqhqI_zXs69uoOnef-XWd2w4) has been evolving from interdisciplinary Data science and Analytics towards AI governance. AI is transformative and I am interested in helping organizations strategize trust in AI across industries. I am always open to meaningful conversations at the intersection of Technology, Policy, and Ethics.
+I am a Computer engineer from the [Pune Institute of Computer Technology](https://www.pict.edu), Maharashtra, India pursuing a social impact career. Being a graduate in [Data science for Public Policy program](https://www.hertie-school.org/en/mds) at the Hertie School of Governance [my professional journey](https://www.linkedin.com/posts/hertie-school-india-hub_adrcon-activity-7336024134637842432-WVSi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABSRwoYB6fqgqhqI_zXs69uoOnef-XWd2w4) has been evolving from interdisciplinary Data science and Analytics towards AI governance. AI is transformative and I am interested in helping organizations strategize trust in AI across industries. I am always open to meaningful conversations at the intersection of Technology, Policy, and Ethics.
 
 
 <div class="profile-wrapper">
