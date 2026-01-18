@@ -11,7 +11,7 @@
 
 .profile-figure {
   margin: 0;
-  text-align: center;
+  text-align: left;
   flex-shrink: 0;
 }
 
@@ -25,8 +25,8 @@
 @media (max-width: 768px) {
   .intro-section {
     flex-direction: column;
-    align-items: center;
-    text-align: center;
+    align-items: right;
+    text-align: right;
   }
 
   .profile-figure {
