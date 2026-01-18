@@ -26,12 +26,12 @@
   .intro-section {
     flex-direction: column;
     align-items: stretch;   
-    text-align: left;     
+    text-align: flex-end;     
   }
 
   .profile-figure {
     margin-top: 16px;
-    align-self: flex-start; 
+    align-self: right; 
   }
 }
 
