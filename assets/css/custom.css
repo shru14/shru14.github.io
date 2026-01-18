@@ -2,6 +2,7 @@
   display: flex;
   align-items: flex-start;
   gap: 32px;
+  justify-content: space-between;
   margin-bottom: 30px;
 }
 
@@ -10,6 +11,7 @@
 }
 
 .profile-figure {
+  margin: 0;
   align-self: flex-end;
   text-align: center;
 }
@@ -24,15 +26,17 @@
 @media (max-width: 768px) {
   .intro-section {
     flex-direction: column;
-    align-items: stretch;  
-    text-align: left;     
+    align-items: stretch;
+    text-align: left;
+  }
 
   .profile-figure {
     margin-top: 16px;
-    align-self: flex-end;  
-    text-align: right;      
+    align-self: flex-end;
+    text-align: right;
   }
 }
+
 
 .site-tabs {
   display: flex;
