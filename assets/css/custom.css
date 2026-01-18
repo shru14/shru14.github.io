@@ -5,16 +5,22 @@
   margin-bottom: 30px;
 }
 
+.profile-figure {
+  margin: 0;
+  text-align: center;
+  flex-shrink: 0;
+  position: static; /* or remove entirely */
+}
+
 .profile-image {
   width: 200px;
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
-  flex-shrink: 0;
 }
 
 .profile-wrapper {
-  position: relative;
+  position: static;
   display: inline-block;
 }
 
