@@ -12,8 +12,11 @@ Hello there 👋!
 I am a Computer engineer from the [Pune Institute of Computer Technology](https://www.pict.edu), Maharashtra, India pursuing a social impact career. Being a graduate in [Data science for Public Policy](https://www.hertie-school.org/en/mds) program at the Hertie School of Governance [my professional journey](https://www.linkedin.com/posts/hertie-school-india-hub_adrcon-activity-7336024134637842432-WVSi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABSRwoYB6fqgqhqI_zXs69uoOnef-XWd2w4) has been evolving from interdisciplinary Data science and Analytics towards AI governance. AI is transformative and I am interested in helping organizations strategize trust in AI across industries. I am always open to meaningful conversations at the intersection of Technology, Policy, and Ethics.
 
 
-</div>
-  <img src="{{ '/images/shruti.jpg' | relative_url }}" alt="Shruti Kakade" class="profile-image">
+<div class="profile-wrapper">
+  <img src="{{ '/images/shruti.jpg' | relative_url }}" class="profile-image">
+  <div class="image-caption">
+    Shruti Kakade · AI Governance
+  </div>
 </div>
 
 - [CV_2026](https://drive.google.com/file/d/1ykwcXzkaCp_npjaTrJgGjE0Tt8Yc3WuB/view?usp=sharing)  
