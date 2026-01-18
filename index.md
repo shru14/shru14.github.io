@@ -15,9 +15,10 @@ I am a Computer engineer from the [Pune Institute of Computer Technology](https:
 <div class="profile-wrapper">
   <img src="{{ '/images/shruti.jpg' | relative_url }}" class="profile-image">
   <div class="image-caption">
-    Shruti Kakade · AI Governance
+    Winter break (Dec 2025)
   </div>
 </div>
+
 
 - [CV_2026](https://drive.google.com/file/d/1ykwcXzkaCp_npjaTrJgGjE0Tt8Yc3WuB/view?usp=sharing)  
 - [Me at Hertie school1](https://www.hertie-school.org/en/who-we-are/profile/person/kakade)  
