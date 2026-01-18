@@ -13,7 +13,12 @@ I am a Computer engineer from the [Pune Institute of Computer Technology](https:
 
 
 <div class="profile-wrapper">
-  <img src="{{ '/images/shruti.jpg' | relative_url }}" class="profile-image">
+<figure class="profile-figure">
+  <img src="{{ '/images/shruti.jpg' | relative_url }}"
+       alt="Shruti Kakade"
+       class="profile-image">
+  <figcaption class="profile-caption">Winter break (Dec 2025)</figcaption>
+</figure>
   <div class="image-caption">
     Winter break (Dec 2025)
   </div>
