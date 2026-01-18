@@ -13,7 +13,7 @@
 .profile-figure {
   margin: 0;
   align-self: flex-end;
-  text-align: center;
+  text-align: right;
 }
 
 .profile-image {
@@ -27,7 +27,7 @@
   .intro-section {
     flex-direction: column;
     align-items: stretch;
-    text-align: left;
+    text-align: right;
   }
 
   .profile-figure {
