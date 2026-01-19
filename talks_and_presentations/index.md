@@ -45,7 +45,7 @@ Talk on [AI ethics and responsible AI](https://docs.google.com/presentation/d/1U
 
 
 -  "CIVICA summar school" (Bucharest, Romania)  
-Got selected to attend summar school, presented a talk on [Governing AI's Computational infrastruture, opportunities and challenges](https://drive.google.com/drive/folders/1YxAL40USGVUBIaW9Rlfh72kCzXgxPfzU)
+[Got selected to attend summar school, presented a talk on Governing AI's Computational infrastruture, opportunities and challenges](https://drive.google.com/drive/folders/1YxAL40USGVUBIaW9Rlfh72kCzXgxPfzU)
 
 
 
