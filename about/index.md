@@ -8,7 +8,7 @@ title: About
 
 - Born and raised in India
 - Started out studying Computer Engineering at [Pune Institute of Computer Technology](https://www.pict.edu)
-- Began my career analysing data, models and shaping applications of it, have spent six years working hands-on data science and analytics projects
+- Began my career analysing data, models and shaping applications of it, have spent six years working hands-on data science and analytics projects in various sectors
 - Gradually became more interested in how technology is governed, not just how it performs
 - Moved to Berlin for a Master’s in [Data science for Public Policy](https://www.hertie-school.org/en/mds) at Hertie School of Governance
 - This shift led me into AI regulation, ethics, and policy work across jurisdictions
