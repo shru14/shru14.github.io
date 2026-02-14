@@ -22,6 +22,6 @@ I am a Computer engineer from the [Pune Institute of Computer Technology](https:
 </div>
 
 
-- [CV_2026](https://drive.google.com/file/d/1ykwcXzkaCp_npjaTrJgGjE0Tt8Yc3WuB/view?usp=sharing)  
+- [CV_2026](https://drive.google.com/file/d/1JO-qPOLEd03Du_O43AXe1zWWT3Eiox4V/view)  
 - [Me at Hertie school1](https://www.hertie-school.org/en/who-we-are/profile/person/kakade)  
 - [Me at Hertie school2](https://www.hertie-school.org/en/who-we-are/profile/person/kakade-828)  
